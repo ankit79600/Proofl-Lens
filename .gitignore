@@ -1,0 +1,20 @@
+# Environment / secrets
+backend/.env
+
+# Python virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local uploads
+backend/uploads/
+
+# Local database
+backend/*.db
+
+# IDE
+.vscode/
+.idea/
